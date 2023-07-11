@@ -1,0 +1,8 @@
+CONFIG.ini
+*.backup
+*.fbd
+*.fbk
+*.pdf
+*.sql
+*.xlsx
+*.csv
